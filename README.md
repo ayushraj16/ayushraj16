@@ -4,7 +4,7 @@
 I'm a passionate Software Developer and recent B.Tech graduate in Computer Science from Mangalam College of Engineering. With hands-on experience in full-stack development, data science, and mobile app development, I enjoy creating projects that solve real-world problems and exploring new technologies to expand my skillset.
 
 - 🔍 **Currently exploring**: Data Science, AI, and Machine Learning with Zoople Technologies.
-- 🌐 **Tech stack**: Proficient in **Python, C++, Java, and Flutter** with experience in **HTML, CSS, JavaScript**, and **SEO** for web development.
+- 🌐 **Tech stack**: Proficient in **Python, C++, Java** with experience in **HTML, CSS, JavaScript**, and **SEO** for web development.
 - 🚀 **Projects**: I've built projects ranging from Twitter sentiment analysis to a cross-platform app called *Food Xplorer* for food reviews, as well as an ongoing collaborative learning platform called *COLAB*.
 - 🌱 **Learning more** about cloud technologies and AI/ML to integrate intelligence into applications.
 
