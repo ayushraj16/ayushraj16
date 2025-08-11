@@ -3,7 +3,7 @@ I’m a Data Scientist | AI/ML Engineer | Developer, currently pursuing my B.Tec
 
 🔍 Current Roles:
 
-Data Scientist at Zoople Technologies
+Data Scientist 
 
 Freelance Tutor teaching Python, AI/ML, and Data Science
 
