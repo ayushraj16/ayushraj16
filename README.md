@@ -1,12 +1,28 @@
+Hi there! 👋 I’m Ayush K Raj
+I’m a Data Scientist | AI/ML Engineer | Developer, currently pursuing my B.Tech in Computer Science from North East Frontier Technical University. I have hands-on experience in data science, artificial intelligence, machine learning, and mobile app development, with a passion for building real-world solutions and exploring emerging technologies.
 
-### Hi there! 👋 I’m Ayush K Raj
+🔍 Current Roles:
 
-I'm a passionate Data Scientist | AI/ML Engineer | Developer  and pursuing B.Tech in Computer Science From North East Frontier Technical University. With hands-on experience in data science , artificial intelligence, machine learning , and mobile app development, I enjoy creating projects that solve real-world problems and exploring new technologies to expand my skillset.
+Data Scientist at Zoople Technologies
 
-- 🔍 **Currently exploring**: Data Science, AI, and Machine Learning with Zoople Technologies.
-- 🌐 **Tech stack**: Proficient in **Python, C++, Java** with experience in **HTML, CSS, JavaScript**, and **SEO** for web development.
-- 🚀 **Projects**: I've built projects ranging from Twitter sentiment analysis to a cross-platform app called *Food Xplorer* for food reviews, as well as an ongoing collaborative learning platform called *COLAB*.
-- 🌱 **Learning more** about cloud technologies and AI/ML to integrate intelligence into applications.
+Freelance Tutor teaching Python, AI/ML, and Data Science
 
-📫 **Reach out**: Whether it’s for a collaboration, freelance work, or a chat on tech, feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/ayushraj1601/) or drop me an email at aayushraj1601@gmail.com.
+🌱 Currently exploring: Full Stack Web Development with the MERN stack to expand my development capabilities.
+
+🤖 AI/ML Tech Stack:
+
+Machine Learning & AI: Scikit-learn, TensorFlow, PyTorch, XGBoost, LightGBM
+
+Data Processing: Pandas, NumPy, OpenCV, NLTK, spaCy
+
+Modeling & Analytics: Regression, Classification, Clustering, Time Series (ARIMA, Prophet), NLP, Computer Vision, Recommender Systems
+
+Tools & Platforms: Jupyter, Google Colab, Git, Docker, Streamlit
+
+🚀 Notable Projects: From Twitter sentiment analysis to Food Xplorer (a cross-platform food review app) and COLAB (a collaborative learning platform in progress).
+
+💡 Learning Goals: Integrating cloud technologies and AI/ML into full-stack applications for intelligent, scalable solutions.
+
+📫 Let’s Connect:
+LinkedIn | 📧 aayushraj1601@gmail.com
 
