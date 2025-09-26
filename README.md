@@ -17,7 +17,7 @@ Data Processing: Pandas, NumPy, OpenCV, NLTK, spaCy
 
 Modeling & Analytics: Regression, Classification, Clustering, Time Series (ARIMA, Prophet), NLP, Computer Vision, Recommender Systems
 
-Tools & Platforms: Jupyter, Google Colab, Git, Docker, Streamlit
+Tools & Platforms: Jupyter, Google Colab, Git, VScode , Streamlit , Github , Gradio 
 
 🚀 **Notable Projects:** From Twitter sentiment analysis to Food Xplorer (a cross-platform food review app) and COLAB (a collaborative learning platform in progress).
 
