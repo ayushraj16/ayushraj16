@@ -1,28 +1,84 @@
-**Hi there! 👋 I’m Ayush K Raj**
-**I’m a Data Scientist | AI/ML Engineer | Developer**, currently pursuing my B.Tech in Computer Science from North East Frontier Technical University. I have hands-on experience in data science, artificial intelligence, machine learning, and mobile app development, with a passion for building real-world solutions and exploring emerging technologies.
+<h1 align="center">Hey 👋 I'm Ayush Raj</h1>
+<h3 align="center">Data Scientist • AI/ML Engineer • Builder</h3>
 
-🔍 **Current Roles:**
+<p align="center">
+Turning data into intelligence and ideas into real products.
+</p>
 
-Data Scientist 
+---
 
-Freelance Tutor teaching Python, AI/ML, and Data Science
+## 🧠 About Me
 
-🌱 **Currently exploring:** Full Stack Web Development with the MERN stack to expand my development capabilities.
+- 🎓 B.Tech Computer Science Engineer  
+- 📊 Passionate about **Data Science, AI/ML & Backend Systems**
+- ⚡ Love building **real-world tech products**
+- 🌍 Founder & Creator of **Pixellon Community**
+- 🚀 Currently building **Where Is My Bus! – Live Bus Tracking System**
+- 🧩 Skilled in **Machine Learning, Python, XGBoost, ARIMA, Data Analysis**
 
-🤖 **AI/ML Tech Stack:**
+---
 
-Machine Learning & AI: Scikit-learn, TensorFlow, PyTorch, XGBoost, LightGBM
+## 🛠 Tech Arsenal
 
-Data Processing: Pandas, NumPy, OpenCV, NLTK, spaCy
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 
-Modeling & Analytics: Regression, Classification, Clustering, Time Series (ARIMA, Prophet), NLP, Computer Vision, Recommender Systems
+### Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-orange?style=for-the-badge&logo=scikit-learn)
+![XGBoost](https://img.shields.io/badge/XGBoost-red?style=for-the-badge)
 
-Tools & Platforms: Jupyter, Google Colab, Git, VScode , Streamlit , Github , Gradio 
+### Development
+![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase)
 
-🚀 **Notable Projects:** From Twitter sentiment analysis to Food Xplorer (a cross-platform food review app) and COLAB (a collaborative learning platform in progress).
+---
 
-💡 **Learning Goals:** Integrating cloud technologies and AI/ML into full-stack applications for intelligent, scalable solutions.
+## 🚀 Projects I Built
 
-📫 **Let’s Connect:**
-📧 aayushraj1601@gmail.com
+### 🚌 Where Is My Bus!
+Live bus tracking system using GPS + telecom data for accurate bus location.
 
+### 🍽 Food Explorer
+Discover restaurants and food experiences through smart recommendations.
+
+### 🌐 Pixellon
+Global student tech community organizing **tech events, innovation challenges and collaborations**.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ayushraj16&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushraj16&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushraj16&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://ayushrajsde.pixellon.in">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox"/>
+</a>
+
+<a href="https://pixellon.in">
+<img src="https://img.shields.io/badge/Pixellon-Community-blue?style=for-the-badge"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
+
+---
+
+## ⚡ Fun Fact
