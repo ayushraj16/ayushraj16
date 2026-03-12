@@ -82,3 +82,16 @@ Global student tech community organizing **tech events, innovation challenges an
 ---
 
 ## ⚡ Fun Fact
+
+while(alive){
+eat();
+code();
+build();
+repeat();
+}
+
+
+---
+
+⭐ *If you like my work, consider giving a star to my repositories.*
+
