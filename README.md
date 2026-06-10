@@ -1,97 +1,33 @@
 <h1 align="center">Hey 👋 I'm Ayush Raj</h1>
-<h3 align="center">Data Scientist • AI/ML Engineer • Builder</h3>
+<h3 align="center">Data System Engineer • AI/ML Builder • Full-Stack Developer</h3>
 
 <p align="center">
-Turning data into intelligence and ideas into real products.
+Building automated AI systems, engineering scalable data architectures, and bringing ideas to life.
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 B.Tech Computer Science Engineer  
-- 📊 Passionate about **Data Science, AI/ML & Backend Systems**
-- ⚡ Love building **real-world tech products**
-- 🌍 Founder & Creator of **Pixellon Community**
-- 🚀 Currently building **Where Is My Bus! – Live Bus Tracking System**
-- 🧩 Skilled in **Machine Learning, Python, XGBoost, ARIMA, Data Analysis**
+- 💼 **Currently:** **Data System Engineer at Lifed Health**, building automated, AI-driven systems.
+- 🎓 **Background:** B.Tech Computer Science Engineer based in Kerala.
+- 🚀 **Also Building:** **Where Is My Bus!** – A live bus tracking system.
+- 🌍 **Community:** Founder & Creator of the **Pixellon Community**, organizing tech events and collaborations.
+- 💡 **Exploring:** Deep diving into **LLMs, RAG (Retrieval-Augmented Generation), and AI Agents**.
+- 👨‍🏫 **Educator:** Helping others master Data Science, ML, and software development concepts.
+- 🧩 **Tech Stack:** Python, XGBoost, ARIMA, React.js, Node.js, SQL, and Laravel.
 
 ---
 
 ## 🛠 Tech Arsenal
 
-### Languages
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql)
 
-### Data Science & ML
-![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-orange?style=for-the-badge&logo=scikit-learn)
-![XGBoost](https://img.shields.io/badge/XGBoost-red?style=for-the-badge)
-
-### Development
-![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase)
-
----
-
-## 🚀 Projects I Built
-
-### 🚌 Where Is My Bus!
-Live bus tracking system using GPS + telecom data for accurate bus location.
-
-### 🍽 Food Explorer
-Discover restaurants and food experiences through smart recommendations.
-
-### 🌐 Pixellon
-Global student tech community organizing **tech events, innovation challenges and collaborations**.
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ayushraj16&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushraj16&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushraj16&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://ayushrajsde.pixellon.in">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox"/>
-</a>
-
-<a href="https://pixellon.in">
-<img src="https://img.shields.io/badge/Pixellon-Community-blue?style=for-the-badge"/>
-</a>
-
-<a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-</a>
-</p>
-
----
-
-## ⚡ Fun Fact
-
-while(alive){
-eat();
-code();
-build();
-repeat();
-}
-
-
----
-
-⭐ *If you like my work, consider giving a star to my repositories.*
-
+### Data Science & AI/ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](
