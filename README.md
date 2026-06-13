@@ -15,7 +15,7 @@ Building automated AI systems, engineering scalable data architectures, and brin
 - 🌍 **Community:** Founder & Creator of the **Pixellon Community**, organizing tech events and collaborations.
 - 💡 **Exploring:** Deep diving into **LLMs, RAG (Retrieval-Augmented Generation), and AI Agents**.
 - 👨‍🏫 **Educator:** Helping others master Data Science, ML, and software development concepts.
-- 🧩 **Tech Stack:** Python, XGBoost, ARIMA, React.js, Node.js, SQL, and Laravel.
+- 🧩 **Tech Stack:** Python, XGBoost, ARIMA, React.js, Node.js, SQL.
 
 ---
 
@@ -38,9 +38,6 @@ Building automated AI systems, engineering scalable data architectures, and brin
 ### Web & App Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Tools & Infrastructure
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
